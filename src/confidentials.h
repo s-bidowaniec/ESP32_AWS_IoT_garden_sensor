@@ -1,4 +1,4 @@
-//#include <string.h>
+#include <pgmspace.h>
 const char* ssid = "WiFi_Name";
 const char* password = "WiFi_Pass";
 
