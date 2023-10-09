@@ -1,0 +1,10 @@
+
+This is example Arduino Nano ESP32 project based on:
+https://how2electronics.com/connecting-esp32-to-amazon-aws-iot-core-using-mqtt/
+
+It should collect sensor data and send it to the Next.js frontend.
+
+### Built With
+* PlatformIO
+* VSCode
+* AWS IoT Core
